@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "07e17893131a57a6cf31469e",
+  "owner": "ktfyum",
+  "repo": "page-fa1dc05c58633847ace7f964",
+  "title": "清华大学",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa1dc05c58633847ace7f964",
+      "a": "清华大学",
+      "b": "机场官网线路发布页",
+      "entity": "清华大学",
+      "brand": "清华大学",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "22a7313ec488d40413fe817e33505514339c2bfeb7ade8f5e44dba7a40bd3b5a",
+      "content": {
+        "primary_entity": "清华大学",
+        "keyword1": "清华大学",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择适配客户端，并参考对应订阅配置说明完成导入。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅适配",
+          "AI_CLOSING_TEXT": "选择适合设备与流量的套餐，按订阅说明逐步配置即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐，轻松配置",
+          "AI_DESCRIPTION": "，面向需要稳定跨境线路的用户提供多种订阅方案。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并包含 IPLC 专线优化，团队版每月 1000GB 支持 20 台设备。用户可按设备数量、流量需求和预算选择月付或年付，年付可享更优价格。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按在线设备和月度流量峰值选择即可。",
+          "AI_FAQ_ANSWER_2": "根据设备类型选择客户端，手机、电脑和路由器有不同推荐软件。订阅导入方式在对应客户端文档中有说明，按步骤填入订阅地址即可。",
+          "AI_FAQ_ANSWER_3": "可以。旗舰版和团队版支持多设备同时在线，基础版支持 3 台设备。若家庭成员较多，建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "月付灵活，年付更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。长期使用推荐年付，短期体验可选月付。",
+          "AI_FAQ_ANSWER_5": "套餐流量为每月重置，未用完不结转。超出后可升级套餐或等待下月重置。团队版适合高流量场景，可按需调整。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在常用设备上导入订阅？",
+          "AI_FAQ_QUESTION_3": "支持多台设备同时在线吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付如何选择？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完后会怎样？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个维度对比套餐，选择匹配使用场景的方案。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB，旗舰版 ¥35/月含 300GB，团队版 ¥85/月含 1000GB，按需选择。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，适配个人、家庭与团队场景。",
+          "AI_FEATURE_TEXT_3": "年付方案更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可省更多。",
+          "AI_FEATURE_TITLE_1": "流量梯度分明",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_GUIDE_INTRO": "按需求选择套餐，确认设备适配，再依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "清华大学海外加速器提供多档订阅方案，覆盖基础到团队使用。用户可根据设备数量、月度流量和预算选择套餐，并通过客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版百GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版专线优化",
+          "AI_HIGHLIGHT_3": "团队版千GB大流量",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同流量与设备需求，月付年付灵活可选，按实际使用场景对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量、月度流量和预算，从基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备类型和系统版本，查看对应客户端的适配说明与推荐配置。",
+          "AI_STEP_TEXT_3": "参考所选客户端文档，填写订阅地址并完成导入，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多档订阅按需选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oc3vs7.cn",
+    "host": "oc3vs7.cn"
+  },
+  "file_hashes": {
+    "index.html": "01e86564184eb171ad8d94a62fa2c312777734365b8ece2115626a072093b451",
+    "sitemap.xml": "fcc70e6ed0a0d4256e9a159d2d4ce6d6e935b9330dd8e344e79df96aaf3033a5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "70ae60a563076b2289894ed66a0e1d28711c416aaee460e705ea4f8a4b307cfc",
+    "robots.txt": "5eef8f3c814e565f9ff385915bb3c54dc01d03ed19c2e54085a5d704b110f84d",
+    "0f36bdb180ea5c77fcf7818dbdc9e6f6.txt": "d6ac8c1104c04059202503a8da18a7eb7d3b85e8d178fd5d4173a04417b5fab6"
+  },
+  "revision": "a88cd263c931bc5ad81c5aa6a69622387bcac138d67eae53fd7a0919424cee33"
+}
